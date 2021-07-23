@@ -1,4 +1,8 @@
-animals = ['rabiit', 'dog']
+animals = [
+    'rabiit', 
+    'dog',
+    'cat',
+]
 
 
 for _ in range(1, 10+1):
