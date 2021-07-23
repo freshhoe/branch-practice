@@ -1,0 +1,7 @@
+# practice
+
+.hidden/**
+keyfile.pem
+*.db
+.DS_Store
+thumbs.db
